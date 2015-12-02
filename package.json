@@ -9,7 +9,7 @@
   "main": "angular-jqcloud.js",
   "dependencies": {
     "angular": "1.x",
-    "jqcloud2": "2.x"
+    "jqcloud-npm": "3.x"
   },
   "keywords": [
     "angularjs",
